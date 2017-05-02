@@ -1,3 +1,4 @@
+# Example not use in Production is only for learn
 echo "DOWNLOADING WORDPRESS"
 wp core download
 
